@@ -23,5 +23,5 @@ ENV PORT=10000
 EXPOSE 10000
 
 # 8. أمر التشغيل النهائي للبوت
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
 
